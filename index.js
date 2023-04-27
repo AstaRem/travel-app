@@ -10,7 +10,7 @@ var baseURL_description = "https://booking-com.p.rapidapi.com/v1/hotels/descript
 // Base url for accuWeather api
 var baseURL_citySearch = "https://dataservice.accuweather.com/locations/v1/cities/search?";
 var baseURL_currentWeather = "https://dataservice.accuweather.com/currentconditions/v1/";
-var apiKey_weather = "pCT63hS0FIm6KJ7Sfo8dGQIulm2tBhKA";
+var apiKey_weather = "WdKxhhbAyMAqE5erG1QWQXKO0FAr8AGG";
 
 // Base url for  geoDB api
 var baseURL_nearbyCities = "https://wft-geo-db.p.rapidapi.com/v1/geo/locations/";
